@@ -15,7 +15,7 @@ public class DemoOnly {
 		}
 		
 		System.out.println(countLevel(p));
-		System.out.println("Hello Friends!");
+		System.out.println("Hello Friends! I don't know why it does not appear!");
 	}
 	
 	private static int countLevel(node p) {
